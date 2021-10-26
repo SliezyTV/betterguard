@@ -1,0 +1,22 @@
+{
+    "prefix": "+",
+    "token": "TOKEN BOT",
+
+    
+    "owner": "",
+    "owner2": "",
+
+
+    "logs": "🔌・logs-guard",
+    "support": "https://discord.gg/Gv5uErt7Wh", :eyes:
+
+
+
+    "blue": "2f3136",
+    "red": "CB0B0B",
+
+
+    "cooldownMessageTime": "3000",
+    "muteSpamTime": "3600000",
+    "linkMuteTime": "3600000"
+}
